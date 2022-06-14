@@ -1,10 +1,14 @@
 import type { NextPage } from 'next'
 import { Box, Heading, SimpleGrid } from '@chakra-ui/react'
 import { NftCard } from '@/components/NftCard'
+import Head from 'next/head'
 
 const Marketplace: NextPage = () => {
   return (
     <Box maxW="1200" margin="0 auto">
+      <Head>
+        <title>Marketplace</title>
+      </Head>
       <Heading mb="7" fontSize="30" color="white">
         All Drops
       </Heading>

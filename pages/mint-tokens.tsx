@@ -1,4 +1,5 @@
 import type { NextPage } from 'next'
+import Head from 'next/head'
 import { useState } from 'react'
 import {
   Box,
@@ -65,6 +66,9 @@ const Marketplace: NextPage = () => {
 
   return (
     <Box maxW="1200" margin="0 auto">
+      <Head>
+        <title>Mint Tokens</title>
+      </Head>
       <Grid
         templateColumns={['1fr', 'repeat(2, 1fr)']}
         gap={10}
