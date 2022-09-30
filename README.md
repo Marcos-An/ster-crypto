@@ -20,7 +20,7 @@
 
 ## About The Project
 
-<a href="https://noemia.vercel.app/" target="_blank">
+<a href="" target="_blank">
   <img src="public/screen.png" alt="Logo">
 </a> 
 <br> 
