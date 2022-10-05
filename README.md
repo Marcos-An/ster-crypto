@@ -25,7 +25,7 @@
 </a> 
 <br> 
 <br> 
-  SterCrypto is a test and maybe a template for responsive NFT'S market place. It's build with NextJs and Chakra
+   SterCrypto is a template for a responsive NFTs marketplace, create your market and build a great experience for your users.  It's built with NextJs and Chakra
 <br> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
